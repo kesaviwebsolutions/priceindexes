@@ -2,7 +2,7 @@
   text-align: center;
 }
 body{
-  background-color: rgb(37, 60, 60);
+  background-color: rgb(7, 79, 131);
 }
 
 .gcsnav{
@@ -12,8 +12,9 @@ body{
 
 .values{
   padding: 10px;
-  background-color: rgb(226, 226, 34);
+  background-color: rgb(3, 47, 79);
   border-radius: 5px;
+  color: #fff;
   width: 200px;
 }
 
